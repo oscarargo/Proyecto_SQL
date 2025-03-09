@@ -12,7 +12,7 @@ proyecto para el máster data analytics basado en una base de datos de película
 
 
 ### Esquema de la BBDD 
-![alt text](image-1.png)
+
 
 
 ### Metodología
