@@ -19,7 +19,7 @@ proyecto para el máster data analytics basado en una base de datos de película
 ### Requisitos e instalación
 ### Recap Sessions
 
-- Sesión inicial/ sesión 0
+#### Sesión inicial/ sesión 0
 
 Se asientan las bases para poder realizar este proyecto:
 
@@ -33,7 +33,18 @@ Se asientan las bases para poder realizar este proyecto:
 
 5.- Carga de todos los datos en GitHub, junto con la redacción del boceto/draft del readme que se va a emplear a lo largo del proyecto.
 
+#### Sesión 1
+
+1.- Se crean 3 scripts en Dbeaver que corresponderán a los ejercicios del 1-10, 11-20 y del 21-30.
+
+2.- A lo largo de Dbeaver se utilizaran scripts divididos de 10 en 10 ejercicios para una mejor lectura y comprensión de los datos y comandos.
+
+3.- A lo largo de cada una de las páginas se añaden comentarios en aquellos comandos que pueden ser tediosos de entender como los Joins ( específicando cuáles son los usados entre Inner, Left, Right, entre otros...) y añadiendo información sobre si son subconsultas o no.
+
+
 ### Resultados y conclusiones
 ### Próximos pasos
 ### Contribuciones
 ### Autores
+
+Este proyecto ha sido realizado por Óscar Arganda basándose en la base de datos proporcionada por la escuela ThePower
