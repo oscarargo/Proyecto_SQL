@@ -41,6 +41,11 @@ Se asientan las bases para poder realizar este proyecto:
 
 3.- A lo largo de cada una de las páginas se añaden comentarios en aquellos comandos que pueden ser tediosos de entender como los Joins ( específicando cuáles son los usados entre Inner, Left, Right, entre otros...) y añadiendo información sobre si son subconsultas o no.
 
+#### Sesión 2
+
+1.- Se crean 2 nuevos scripts con nombre ejercicios 31-40 y 41-50 respectivamente y se realizan las consultas determinadas en el archivo del proyecto
+
+2.- Las consultas más complejas se gestionan añadiendo un breve comentario aclaratorio que permite conocer cuál ha sido el paso crítico. Siguiendo los pasos de las sesiones anteriores
 
 ### Resultados y conclusiones
 ### Próximos pasos
