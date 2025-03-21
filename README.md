@@ -47,6 +47,20 @@ Se asientan las bases para poder realizar este proyecto:
 
 2.- Las consultas más complejas se gestionan añadiendo un breve comentario aclaratorio que permite conocer cuál ha sido el paso crítico. Siguiendo los pasos de las sesiones anteriores
 
+### Sesión 3
+
+1.- Se hacen las consultas equivalentes a los ejercicios 51 a 64, creando un solo script nuevo denominado ejercicios_51_64.
+
+2.- Se realizan las consultas, realizando explicaciones en aquellas que requieren un contexto o una aclaración por su complejidad.
+
+### Sesión 4
+
+1.- Se realiza un repaso exhaustivo de todas las consultas, se mejora la calidad de las aclaraciones y se repasa que todos los comandos estén claros 
+
+2.- Se redacta el readme y se actualizan los apartados de recap session mejorando su comprensión.
+
+3.- Se deja todos los documentos maquetados para que en la sesión 5 se suban los resultados y se finalice el readme.
+
 ### Resultados y conclusiones
 ### Próximos pasos
 ### Contribuciones
