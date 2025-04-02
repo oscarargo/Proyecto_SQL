@@ -45,6 +45,7 @@ Como no era posible terminar haciendo lo mismo, agrupe las últimas consultas en
 
 ### Requisitos e instalación
 DBeaver y Microsoft Visual Studio 
+
 La base de datos ofrecida por The Power
 
 ### Recap Sessions
